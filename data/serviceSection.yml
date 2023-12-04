@@ -1,35 +1,30 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: From Notes to Action
 title: >
-  ## Creative Services
+  ## Our Features
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  NordPress Excels in Muti-Editor and Smart Linking, Perfectly Tailored for All Knowledge Workers.
 service:
   - content: >
-      #### Customize theme
+      #### Your notes just like You
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Customize the style to match your mood, making your notes as unique as you are.
     image: images/service/cog.svg
   - content: >
-      #### Multiple Editors
+      #### Effortless Multi-Editor Use
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Seamlessly switch between editors like Markdown, Rich Text, and Text Area, easily managing various file categories. Record notes effortlessly and share private notes with just a click.
     image: images/service/note.svg
   - content: >
-      #### Categories for all
+      #### Cross-Platform Usability
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Access NordPress from Windows to Mac OS systems, capturing your thoughts anytime, anywhere.
     image: images/service/sequares.svg
   - content: >
-      #### Links & Feeds
+      #### Smart Linking for News Reading
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Input your Feeds, and NordPress transforms into a smart news reader! After reading, effortlessly jot down notes and link them to your categories, helping you organize your second brain.
     image: images/service/bookmark.svg
   # - content: >
   #     #### UI/UX Design
