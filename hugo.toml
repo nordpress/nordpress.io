@@ -55,7 +55,7 @@ copyright = "All right reserved copyright © NordPress 2023"
 footerLogo = "images/contact/widget-logo.png"
 # We're using formspree.io for form handling, paste your formspree url below
 fabformURL  = "https://fabform.io/f/JpTXRUa"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+googleAnalytics = "G-BYLW9R5CVB"
 logo = "images/site-navigation/logo.png"
 twitterURL="https://x.com/NordPressIO"
 twitterURLTarget="_blank"
