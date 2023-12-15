@@ -48,6 +48,7 @@ url = "#"
 weight = 4
 
 [params]
+description = "Customize the style to match your mood, making your notes as unique as you are."
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © NordPress 2023"
